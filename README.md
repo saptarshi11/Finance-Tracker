@@ -135,15 +135,6 @@ npm start
 yarn start
 ```
 
-## 🧪 Testing
-```bash
-pnpm test
-# or
-npm run test
-# or
-yarn test
-```
-
 ## 📬 Contact
 
 saptarshimukherjee5300@gmail.com
