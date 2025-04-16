@@ -2,7 +2,6 @@
 
 A modern, feature-rich finance tracking application built with Next.js that helps users manage their budgets, track expenses and income, and gain insights into their spending habits.
 
-![Personal Finance Tracker](https://github.com/github/placeholder-image/raw/main/finance-tracker.png)
 
 ## 📌 Features
 
