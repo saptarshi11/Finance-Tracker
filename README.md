@@ -18,12 +18,12 @@ A modern, feature-rich finance tracking application built with Next.js that help
 
 ## 🚀 Tech Stack
 
-- **Framework**: [Next.js 15](https://nextjs.org/)
-- **UI Components**: [shadcn/ui](https://ui.shadcn.com/) with [Radix UI](https://www.radix-ui.com/)
-- **Styling**: [TailwindCSS](https://tailwindcss.com/)
-- **Database**: [MongoDB](https://www.mongodb.com/)
-- **Charts**: [Recharts](https://recharts.org/)
-- **Form Handling**: [React Hook Form](https://react-hook-form.com/) with [Zod](https://github.com/colinhacks/zod)
+- **Framework**: [Next.js 15]
+- **UI Components**: [shadcn/ui] with [Radix UI]
+- **Styling**: [TailwindCSS]
+- **Database**: [MongoDB]
+- **Charts**: [Recharts]
+- **Form Handling**: [React Hook Form] with [Zod]
 - **Date Handling**: [date-fns](https://date-fns.org/)
 - **Icons**: [Lucide Icons](https://lucide.dev/)
 - **Theme Switching**: [next-themes](https://github.com/pacocoursey/next-themes)
